@@ -10,12 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autocorrect": "^1.2.0",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "lodash": "^4.17.19",
     "loopback": "^3.27.0",
     "mongodb": "^3.6.0",
-    "mongoose": "^5.9.28"
+    "mongoose": "^5.9.28",
+    "random-words": "^1.1.1",
+    "redis": "^3.0.2"
   }
 }
